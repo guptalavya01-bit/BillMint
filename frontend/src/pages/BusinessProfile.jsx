@@ -6,7 +6,7 @@ import {
   customStyles,
 } from "../assets/dummyStyles";
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://billmint-ok4q.onrender.com";
 
 /* ---------- small icon components ---------- */
 const UploadIcon = ({ className = "w-5 h-5" }) => (
