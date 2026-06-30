@@ -4,7 +4,7 @@ BillMint is a full stack SaaS web application that helps freelancers and small b
 
 ## Live Demo
 
-🔗 [Live Demo](billmint-lavya.vercel.app) <!-- replace with your actual Vercel link -->
+🔗 [Live Demo](https://billmint-lavya.vercel.app) <!-- replace with your actual Vercel link -->
 
 ## Features
 
